@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="322" height="185" viewBox="0 0 322 185">
+    <defs>
+        <filter id="lywc2xarza" width="153%" height="149.2%" x="-26.1%" y="-24.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".4"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="0z5xzftu6b" width="112.3%" height="117.3%" x="-6.2%" y="-6.7%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+            <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.941176471 0 0 0 0 0.933333333 0 0 0 0 0.964705882 0 0 0 1 0"/>
+        </filter>
+        <rect id="zaqlcn7anc" width="146" height="104" x="0" y="0" rx="10"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-665 -2828) translate(499 2345) translate(146 282) translate(21 202)">
+                        <rect width="301" height="162" x="-.5" y="-.5" fill="#FBFAFF" stroke="#F0EEF6" rx="6"/>
+                        <path fill="#F0EEF6" fill-opacity=".796" d="M6 0h288c3.314 0 6 2.686 6 6v16H0V6c0-3.314 2.686-6 6-6z"/>
+                        <g transform="translate(9 7)">
+                            <circle cx="4" cy="4" r="4" fill="#FF615A"/>
+                            <circle cx="17" cy="4" r="4" fill="#FEBE2D"/>
+                            <circle cx="30" cy="4" r="4" fill="#27CA41"/>
+                        </g>
+                        <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="13" font-weight="500" opacity=".6">
+                            <tspan x="21" y="53">Available Reports</tspan>
+                        </text>
+                        <g transform="translate(23 66)">
+                            <rect width="114" height="10" y="3" fill="#C7BFDE" rx="5"/>
+                            <g>
+                                <g filter="url(#lywc2xarza)" transform="translate(91) translate(9 8)">
+                                    <path fill="#FFF" fill-rule="nonzero" d="M3.27 12.28c-.28-.36-.63-1.09-1.24-2C1.68 9.78.82 8.83.56 8.34c-.187-.298-.242-.66-.15-1 .157-.646.77-1.074 1.43-1 .51.103.98.353 1.35.72.258.243.496.507.71.79.16.2.2.28.38.51.18.23.3.46.21.12-.07-.5-.19-1.34-.36-2.09-.13-.57-.16-.66-.28-1.09-.12-.43-.19-.79-.32-1.28-.119-.481-.212-.969-.28-1.46-.126-.628-.034-1.28.26-1.85.35-.329.862-.415 1.3-.22.44.325.77.78.94 1.3.262.64.437 1.313.52 2 .16 1 .47 2.46.48 2.76 0-.37-.07-1.15 0-1.5.07-.365.323-.668.67-.8.298-.091.613-.112.92-.06.31.065.585.243.77.5.232.583.36 1.203.38 1.83.027-.55.12-1.093.28-1.62.167-.235.411-.405.69-.48.33-.06.67-.06 1 0 .271.09.508.262.68.49.212.53.34 1.09.38 1.66 0 .14.07-.39.29-.74.114-.34.401-.592.752-.663.351-.07.713.052.95.32.237.269.312.644.198.983v2.26c-.036.585-.117 1.167-.24 1.74-.174.507-.416.988-.72 1.43-.486.54-.887 1.15-1.19 1.81-.075.328-.109.664-.1 1-.001.31.04.62.12.92-.409.043-.821.043-1.23 0-.39-.06-.87-.84-1-1.08-.064-.129-.196-.21-.34-.21-.144 0-.276.081-.34.21-.22.38-.71 1.07-1.05 1.11-.67.08-2.05 0-3.14 0 0 0 .18-1-.23-1.36-.41-.36-.83-.78-1.14-1.06l-.84-.96z"/>
+                                    <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75" d="M3.27 12.28c-.28-.36-.63-1.09-1.24-2C1.68 9.78.82 8.83.56 8.34c-.187-.298-.242-.66-.15-1 .157-.646.77-1.074 1.43-1 .51.103.98.353 1.35.72.258.243.496.507.71.79.16.2.2.28.38.51.18.23.3.46.21.12-.07-.5-.19-1.34-.36-2.09-.13-.57-.16-.66-.28-1.09-.12-.43-.19-.79-.32-1.28-.119-.481-.212-.969-.28-1.46-.126-.628-.034-1.28.26-1.85.35-.329.862-.415 1.3-.22.44.325.77.78.94 1.3.262.64.437 1.313.52 2 .16 1 .47 2.46.48 2.76 0-.37-.07-1.15 0-1.5.07-.365.323-.668.67-.8.298-.091.613-.112.92-.06.31.065.585.243.77.5.232.583.36 1.203.38 1.83.027-.55.12-1.093.28-1.62.167-.235.411-.405.69-.48.33-.06.67-.06 1 0 .271.09.508.262.68.49.212.53.34 1.09.38 1.66 0 .14.07-.39.29-.74.114-.34.401-.592.752-.663.351-.07.713.052.95.32.237.269.312.644.198.983v2.26c-.036.585-.117 1.167-.24 1.74-.174.507-.416.988-.72 1.43-.486.54-.887 1.15-1.19 1.81-.075.328-.109.664-.1 1-.001.31.04.62.12.92-.409.043-.821.043-1.23 0-.39-.06-.87-.84-1-1.08-.064-.129-.196-.21-.34-.21-.144 0-.276.081-.34.21-.22.38-.71 1.07-1.05 1.11-.67.08-2.05 0-3.14 0 0 0 .18-1-.23-1.36-.41-.36-.83-.78-1.14-1.06l-.84-.96z"/>
+                                    <path fill="#000" fill-rule="nonzero" d="M11.75 12.826V9.374c0-.207-.168-.374-.375-.374S11 9.167 11 9.374v3.452c0 .207.168.374.375.374s.375-.167.375-.374zM9.77 12.825L9.75 9.37C9.749 9.165 9.58 9 9.373 9c-.207.001-.374.17-.373.375l.02 3.454c.001.206.17.372.377.371.207-.001.374-.17.373-.375zM7 9.379l.02 3.446c.001.208.17.376.377.375.207-.001.374-.17.373-.379l-.02-3.446c-.001-.208-.17-.376-.377-.375-.207.001-.374.17-.373.379z"/>
+                                </g>
+                            </g>
+                            <rect width="94" height="10" y="22" fill="#DCD8E7" opacity=".7" rx="5"/>
+                            <rect width="104" height="10" y="41" fill="#DCD8E7" opacity=".7" rx="5"/>
+                            <rect width="74" height="10" y="60" fill="#DCD8E7" opacity=".7" rx="5"/>
+                        </g>
+                        <g>
+                            <g transform="translate(169 72)">
+                                <use fill="#000" filter="url(#0z5xzftu6b)" xlink:href="#zaqlcn7anc"/>
+                                <use fill="#FFF" stroke="#DCD8E7" stroke-opacity=".497" xlink:href="#zaqlcn7anc"/>
+                            </g>
+                            <g>
+                                <path stroke="#F0EEF6" d="M0 38L114.801 38M0 53L114.801 53M0 23L114.801 23M0 8L114.801 8" transform="translate(169 72) translate(15.523 25)"/>
+                                <g fill="#7D4FF6" transform="translate(169 72) translate(15.523 25) translate(7.477)">
+                                    <rect width="10" height="53" rx="2"/>
+                                    <rect width="10" height="33" x="18" y="20" rx="2"/>
+                                    <rect width="10" height="43" x="36" y="10" rx="2"/>
+                                    <rect width="10" height="33" x="54" y="20" rx="2"/>
+                                    <rect width="10" height="23" x="72" y="30" rx="2"/>
+                                    <rect width="10" height="43" x="90" y="10" rx="2"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path d="M0 0H40V40H0z" opacity=".2" transform="translate(-1334 -2005) translate(523 1544) translate(811 461)"/>
+                    <g stroke-linecap="round" stroke-linejoin="round">
+                        <g transform="translate(-1334 -2005) translate(523 1544) translate(811 461) translate(6 3)">
+                            <path stroke="#BD9FFF" stroke-width="2" d="M6.4 13.882L13.867 13.882M6.4 19.216L10.667 19.216M6.4 24.549L10.667 24.549"/>
+                            <path stroke="#7D4FF6" stroke-width="2.133" d="M12.8 32.016H2.133C.955 32.016 0 31.06 0 29.882v-22.4C0 6.304.955 5.35 2.133 5.35h5.334C7.467 2.403 9.854.016 12.8.016s5.333 2.387 5.333 5.333h5.334c1.178 0 2.133.955 2.133 2.133v3.2"/>
+                            <path stroke="#BD9FFF" stroke-width="2" d="M12.8 4.282c.295 0 .533.24.533.534 0 .294-.238.533-.533.533-.295 0-.533-.239-.533-.533 0-.295.238-.534.533-.534"/>
+                            <circle cx="23.467" cy="23.482" r="8.533" stroke="#7D4FF6" stroke-width="2.133"/>
+                            <path stroke="#7D4FF6" stroke-width="2.133" d="M27.27 21l-4.132 5.51c-.186.247-.47.402-.778.424-.309.022-.612-.091-.83-.31l-2.134-2.133"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="361" height="200" viewBox="0 0 361 200">
+    <defs>
+        <linearGradient id="vfw5yjmyeb" x1="50%" x2="50%" y1="54.722%" y2="100%">
+            <stop offset="0%" stop-color="#EEE"/>
+            <stop offset="100%" stop-color="#D8D8D8" stop-opacity="0"/>
+        </linearGradient>
+        <path id="dkozdz67pa" d="M0 0H361V200H0z" fill="#fff"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(-1158 -2801) translate(499 2345) translate(146 282) translate(492) translate(21 174)">
+                            <mask id="uashisr5vc" fill="#fff">
+                                <use xlink:href="#dkozdz67pa"/>
+                            </mask>
+                            <use fill="url(#vfw5yjmyeb)" xlink:href="#dkozdz67pa"/>
+                            <g mask="url(#uashisr5vc)">
+                                <g>
+                                    <g>
+                                        <path stroke="#F0EEF6" d="M0 38.475h15.758c5.523 0 10-4.477 10-10V10c0-5.523 4.477-10 10-10H42M0 38.475h15.758c5.523 0 10 4.477 10 10v59c0 5.523 4.477 10 10 10H42" transform="translate(159 3) translate(0 15.525)"/>
+                                        <path stroke="#F0EEF6" d="M0 38.475h15.758c5.523 0 10 4.477 10 10v99c0 5.523 4.477 10 10 10H42M0 38.475h41" transform="translate(159 3) translate(0 15.525)"/>
+                                        <path stroke="#65BAA8" d="M0 38.475h15.758c5.523 0 10 4.477 10 10v20c0 5.523 4.477 10 10 10H42" transform="translate(159 3) translate(0 15.525)"/>
+                                    </g>
+                                    <g transform="translate(159 3) translate(41 39)">
+                                        <rect width="112" height="28" stroke="#DCD8E7" stroke-opacity=".748" rx="14"/>
+                                        <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                            <tspan x="12" y="19">Antibacterials</tspan>
+                                        </text>
+                                    </g>
+                                    <g fill="#65BAA8" transform="translate(159 3) translate(41 78)">
+                                        <rect width="95" height="28" fill-opacity=".158" stroke="#65BAA8" stroke-opacity=".3" rx="14"/>
+                                        <text font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                            <tspan x="12" y="19">Antiseptics</tspan>
+                                        </text>
+                                    </g>
+                                    <g transform="translate(159 3) translate(41 117)">
+                                        <rect width="76" height="28" stroke="#DCD8E7" stroke-opacity=".748" rx="14"/>
+                                        <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                            <tspan x="12" y="19">Clothing</tspan>
+                                        </text>
+                                    </g>
+                                    <g transform="translate(159 3) translate(41 156)">
+                                        <rect width="150" height="28" stroke="#DCD8E7" stroke-opacity=".748" rx="14"/>
+                                        <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                            <tspan x="12" y="19">Orthopedic Implants</tspan>
+                                        </text>
+                                    </g>
+                                    <g transform="translate(159 3) translate(41)">
+                                        <rect width="144" height="28" stroke="#DCD8E7" stroke-opacity=".748" rx="14"/>
+                                        <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                            <tspan x="12" y="19">Adhesives Sealants</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(1 41) translate(94 1)">
+                                    <rect width="64" height="28" fill="#65BAA8" rx="14"/>
+                                    <text fill="#FFF" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                        <tspan x="12" y="19">Family</tspan>
+                                    </text>
+                                </g>
+                                <g opacity=".6" transform="translate(1 41) translate(0 1)">
+                                    <rect width="80" height="28" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" rx="14"/>
+                                    <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                        <tspan x="12" y="19">Segment</tspan>
+                                    </text>
+                                </g>
+                                <g opacity=".6" transform="translate(1 41) translate(70 40)">
+                                    <rect width="66" height="28" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" rx="14"/>
+                                    <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                        <tspan x="12" y="19">Supply</tspan>
+                                    </text>
+                                </g>
+                                <g opacity=".6" transform="translate(1 41) translate(0 40)">
+                                    <rect width="57" height="28" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" rx="14"/>
+                                    <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                        <tspan x="12" y="19">Class</tspan>
+                                    </text>
+                                </g>
+                                <g opacity=".6" transform="translate(1 41) translate(1 79)">
+                                    <rect width="95" height="28" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" rx="14"/>
+                                    <text fill="#87809C" font-family="Barlow-SemiBold, Barlow" font-size="14" font-weight="500">
+                                        <tspan x="12" y="19">Commodity</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

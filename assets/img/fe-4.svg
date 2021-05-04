@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="437" height="188" viewBox="0 0 437 188">
+    <defs>
+        <filter id="k02k5ckapc">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.489586 0 0 0 0 0.308809 0 0 0 0 0.963513 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="l4zbtkuoyd">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.489586 0 0 0 0 0.308809 0 0 0 0 0.963513 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="3mtntw867e">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.489586 0 0 0 0 0.308809 0 0 0 0 0.963513 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="1owvvw1sbg">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.489586 0 0 0 0 0.308809 0 0 0 0 0.963513 0 0 0 1.000000 0"/>
+        </filter>
+        <filter id="dufl8dqtxi">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.862745 0 0 0 0 0.847059 0 0 0 0 0.905882 0 0 0 1.000000 0"/>
+        </filter>
+        <rect id="s58fmnrsma" width="135" height="81" x="150" y="9" rx="2"/>
+        <rect id="9w62k5xdqb" width="135" height="81" x="0" y="105" rx="2"/>
+        <mask id="6hmftivgsf" width="137" height="83" x="-1" y="-1" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+            <path fill="#fff" d="M149 8H286V91H149z"/>
+            <use xlink:href="#s58fmnrsma"/>
+        </mask>
+        <mask id="5bp10g9tnh" width="137" height="83" x="-1" y="-1" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+            <path fill="#fff" d="M-1 104H136V187H-1z"/>
+            <use xlink:href="#9w62k5xdqb"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(-1158 -3269) translate(499 2345) translate(146 282) translate(492 448) translate(22 195)">
+                            <rect width="135" height="81" y="9" fill="#F0EEF6" rx="2"/>
+                            <path fill="#DCD8E7" fill-rule="nonzero" d="M300.246 45.5v8h-1V50h-59.5v-1h59.5v-3.5h1z"/>
+                            <g>
+                                <g transform="translate(308)">
+                                    <rect width="126" height="29" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" opacity=".6" rx="14.5"/>
+                                    <rect width="74" height="6" x="40" y="11" fill="#7D4FF6" rx="3"/>
+                                    <g stroke-linecap="round" stroke-linejoin="round" filter="url(#k02k5ckapc)">
+                                        <g stroke="#000" stroke-width="1.5" transform="translate(12 5)">
+                                            <ellipse cx="9" cy="3.938" rx="8.438" ry="3.375"/>
+                                            <path d="M.563 3.938V9c0 1.864 3.777 3.375 8.437 3.375 4.66 0 8.438-1.51 8.438-3.375V3.938"/>
+                                            <path d="M.563 9v5.063c0 1.863 3.777 3.374 8.437 3.374 4.66 0 8.438-1.51 8.438-3.375V9"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(308) translate(0 35)">
+                                    <rect width="96" height="29" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" opacity=".6" rx="14.5"/>
+                                    <rect width="44" height="6" x="40" y="11" fill="#7D4FF6" rx="3"/>
+                                    <g stroke-linecap="round" stroke-linejoin="round" filter="url(#l4zbtkuoyd)">
+                                        <g stroke="#000" stroke-width="1.5" transform="translate(12 5)">
+                                            <ellipse cx="9" cy="3.938" rx="8.438" ry="3.375"/>
+                                            <path d="M.563 3.938V9c0 1.864 3.777 3.375 8.437 3.375 4.66 0 8.438-1.51 8.438-3.375V3.938"/>
+                                            <path d="M.563 9v5.063c0 1.863 3.777 3.374 8.437 3.374 4.66 0 8.438-1.51 8.438-3.375V9"/>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(308) translate(0 70)">
+                                    <rect width="116" height="29" fill="#F0EEF6" stroke="#DCD8E7" stroke-opacity=".437" opacity=".6" rx="14.5"/>
+                                    <rect width="64" height="6" x="40" y="11" fill="#7D4FF6" rx="3"/>
+                                    <g stroke-linecap="round" stroke-linejoin="round" filter="url(#3mtntw867e)">
+                                        <g stroke="#000" stroke-width="1.5" transform="translate(12 5)">
+                                            <ellipse cx="9" cy="3.938" rx="8.438" ry="3.375"/>
+                                            <path d="M.563 3.938V9c0 1.864 3.777 3.375 8.437 3.375 4.66 0 8.438-1.51 8.438-3.375V3.938"/>
+                                            <path d="M.563 9v5.063c0 1.863 3.777 3.374 8.437 3.374 4.66 0 8.438-1.51 8.438-3.375V9"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g fill="#DCD8E7" transform="translate(18 23)">
+                                <rect width="10" height="53" rx="2"/>
+                                <rect width="10" height="33" x="18" y="20" rx="2"/>
+                                <rect width="10" height="43" x="36" y="10" rx="2"/>
+                                <rect width="10" height="33" x="54" y="20" rx="2"/>
+                                <rect width="10" height="23" x="72" y="30" rx="2"/>
+                                <rect width="10" height="43" x="90" y="10" rx="2"/>
+                            </g>
+                            <use stroke="#DCD8E7" stroke-dasharray="4" stroke-width="2" mask="url(#6hmftivgsf)" xlink:href="#s58fmnrsma"/>
+                            <g stroke-linecap="round" stroke-linejoin="round" filter="url(#1owvvw1sbg)">
+                                <g stroke="#000" stroke-width="1.5" transform="translate(206 38)">
+                                    <path d="M12 7.5L12 16.5M7.5 12L16.5 12"/>
+                                    <circle cx="12" cy="12" r="11.25"/>
+                                </g>
+                            </g>
+                            <use stroke="#DCD8E7" stroke-dasharray="4" stroke-width="2" mask="url(#5bp10g9tnh)" xlink:href="#9w62k5xdqb"/>
+                            <g stroke-linecap="round" stroke-linejoin="round" filter="url(#dufl8dqtxi)">
+                                <g stroke="#000" stroke-width="1.5" transform="translate(56 134)">
+                                    <path d="M12 7.5L12 16.5M7.5 12L16.5 12"/>
+                                    <circle cx="12" cy="12" r="11.25"/>
+                                </g>
+                            </g>
+                            <rect width="135" height="81" x="150" y="105" fill="#F0EEF6" rx="2"/>
+                            <path stroke="#DCD8E7" stroke-linejoin="round" stroke-width="6" d="M238 145.5c0-11.322-9.178-20.5-20.5-20.5s-20.5 9.178-20.5 20.5 9.178 20.5 20.5 20.5"/>
+                            <path fill="#DCD8E7" stroke="#DCD8E7" stroke-linejoin="round" d="M240.069 167.931v-18.5H221.93c0 10.017 8.12 18.5 18.138 18.5z" transform="rotate(-90 231 158.681)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

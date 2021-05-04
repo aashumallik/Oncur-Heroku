@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path d="M0 0H40V40H0z" opacity=".2" transform="translate(-942 -2005) translate(523 1544) translate(419 461)"/>
+                    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <g transform="translate(-942 -2005) translate(523 1544) translate(419 461) translate(2 6)">
+                            <path stroke="#BD9FFF" d="M14.202 10.169l-.351-.285c-.708-.522-1.636-.64-2.453-.314L6.32 11.733"/>
+                            <path stroke="#7D4FF6" d="M25.6 18.85L18.792 20.211"/>
+                            <path stroke="#BD9FFF" d="M6.329 20.267h2.275l4.337 3.308c.421.476 1.145.533 1.635.128l6.059-5.004c.498-.412.579-1.144.183-1.655l-3.337-3.71"/>
+                            <path stroke="#7D4FF6" d="M19.467 12.489l-3.214 1.358c-.512.212-1.09.203-1.596-.023-.513-.23-.913-.654-1.11-1.18-.4-1.025.032-2.187 1.004-2.703l3.213-1.603c.702-.364 1.526-.412 2.267-.133l6.597 2.6"/>
+                            <path stroke="#BD9FFF" d="M.91 21.333h3.783c.892.048 1.654-.633 1.707-1.524v-7.62c-.053-.89-.816-1.57-1.707-1.522H.91"/>
+                            <circle cx="16" cy="16" r="16" stroke="#7D4FF6"/>
+                            <path stroke="#7D4FF6" d="M31.09 21.333h-3.783c-.892.048-1.654-.633-1.707-1.524v-7.62c.053-.89.816-1.57 1.707-1.522h3.783"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

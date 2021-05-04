@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-919 -80) translate(480 65) translate(439 15)">
+                    <circle cx="13" cy="13" r="13" fill="#DCD8E7" opacity=".4"/>
+                    <g fill="#87809C" transform="translate(8 8)">
+                        <rect width="2" height="12" x="4" y="-1" rx="1" transform="rotate(45 5 5)"/>
+                        <rect width="2" height="12" x="4" y="-1" rx="1" transform="scale(-1 1) rotate(45 0 -7.071)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
